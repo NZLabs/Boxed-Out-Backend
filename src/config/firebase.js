@@ -10,6 +10,7 @@ if (process.env.NODE_ENV === "production") {
   configs = serviceAccount;
 }
 
+console.log(configs);
 admin.initializeApp({
   credential: admin.credential.cert(configs),
 });
