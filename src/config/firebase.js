@@ -4,7 +4,7 @@ const serviceAccount = require("../../secrets/serviceAccount.json");
 
 let configs = null;
 if (process.env.NODE_ENV === "production") {
-  configs = process.env.firebase_config;
+  configs = JSON.parse(process.env.firebase_config);
 } else {
   const serviceAccount = require("../../secrets/serviceAccount.json");
   configs = serviceAccount;
