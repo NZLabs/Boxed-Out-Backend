@@ -22,7 +22,22 @@ const create_room = (user, room_name, user_name, type, next) => {
       type: type,
       timestamp: Date.now(),
     })
-    .then((res) => next({ room_id: r_id }, null))
+    .then((res) =>
+      next(
+        {
+          creator: {
+            uid: user.uid,
+            name: user_name ? user_name : "Anonymous",
+            email: user.email,
+          },
+          rid: r_id,
+          name: room_name,
+          type: type,
+          timestamp: Date.now(),
+        },
+        null
+      )
+    )
     .catch((error) => next(null, error));
 };
 

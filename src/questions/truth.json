@@ -1,0 +1,1312 @@
+[
+    {
+        "que": "What is a weird food that you love?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What terrible movie or show is your guilty pleasure?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What was your biggest childhood fear?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the first letter of your crush’s name?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the worst grade you received for a class in school/college?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the biggest lie you’ve ever told?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever accidentally hit something (or someone!) with your car?",
+        "cat": "c",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever broken an expensive item?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is one thing you’d change about your appearance if you could?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "If you suddenly had a million dollars, how would you spend it?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "Who is the best teacher you’ve ever had and why?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the worst food you’ve ever tasted?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the weirdest way you’ve met someone you now consider a close friend?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the most embarrassing thing you’ve posted on social media?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "Who was your first celebrity crush?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever revealed a friend’s secret to someone else?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "How many kids do you want to have one day (or how many did you want to have growing up)?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "If you could only eat one meal for the rest of your life, what would it be?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is a secret you had as a child that you never told your parents?",
+        "cat": "ch",
+        "for":  "mf"
+    },
+    {
+        "que": "What is your favorite book of all time?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the last text message you sent your best friend?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is something you would do if you knew there were no consequences?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the worst physical pain you’ve ever been in?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "Personality-wise, are you more like your mom or your dad?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "When is the last time you apologized (and what did you do)?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever reported someone for doing something wrong (either to the police or at work/school)?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "f your house caught on fire and you could only save three things (besides people), what would they be?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "If you could pick one other player to take with you to a deserted island, who would it be?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What sport or hobby do you wish you would’ve picked up as a child?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever stolen anything?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever been kicked out of a store, restaurant, bar, event, etc.?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the worst date you’ve ever had?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the weirdest thing you’ve ever done in public?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the last excuse you used to cancel plans?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the biggest mistake you’ve ever made at school or work?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "Which player would survive the longest in a horror/apocalypse movie, and who would be the first one to die?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the dirtiest room/area of your house?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "Which of your family members annoys you the most?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "When is the last time you cried?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "When is the last time you made someone else cry?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the longest you’ve ever gone without showering?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the worst date you’ve ever been on?",
+        "cat": "ch",
+        "for":  "mf"
+    },
+    {
+        "que": "When is the last time you did something technically illegal?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "If you could pick anyone in the world to be president, who would you choose?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "How many times do you wear your jeans before you wash them?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you pee in pools?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "If someone went through your closet, what is the weirdest thing they’d find?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever lied about your age?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "Besides your phone, what’s the one item in your house you couldn’t live without?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the biggest fight you’ve ever been in with a friend?",
+        "cat": "ct",
+        "for":  "mf"
+    },
+    {
+        "que": "Tell about the best sex you ever had.",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What position have you always wanted to try?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Which part of foreplay do you like the best?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is your favorite body part?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is your favorite body part of __op__?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is your favorite thing to see __op__ wear?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Waht is the fantasy you imagine the most?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What celebrity would you most like to have sex with?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is your last sex dream.",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Tell about the first time you had sex.​",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What do you wish you and __op__ did in the bedroom?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What's your favorite toy?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "When was the last time you touched yourself?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What has been your best sexual experience?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What was the last time you gave head?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the longest time you’ve ever given head?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever done a threesome?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Would you ever do a threesome?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s your take on sex in groups?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Can you ever watch your partner have sex with someone else?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "How many partners have you had at one time?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Give a description of how your orgasm feels.",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Where’s your favorite place to make out?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever done the backdoor style, and would you?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the longest time you’ve gone without sex?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you prefer rough or slow sex?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you like to be on top or beneath?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you prefer anal?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "What sex position do you dislike?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is your worst sexual experience?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever had __st__ outdoors?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the strangest place you ever had __st__?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever done oral on a stranger?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever paid someone to have sex with you?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Who was your first sexual partner?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever made a sex tape?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you have a favorite porn star?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you have a favorite strip club?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever stripped before?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you like to do it with the light on or off?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Does size matter to you?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you like to have music in the background or not?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you like your partner to be silent or loud?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you like a little bit of foreplay?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever tried role-playing?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you have a 'sweet spot'?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is your weirdest sexual fantasy?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Would you ever have sex with someone for money?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Are you flexible in bed?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the highest number of orgasms you’ve had in one __st__ encounter?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Would you spit out or swallow?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What was your first sexual impression on __op__?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Are you in love with __op__?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Did you first have lust or love for __op__?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Would you ever get bored of having __st__ with __op__?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you have a friend you’re attracted to?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "How many days a week will you have __st__?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Who is __op__'s least attractive friend?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Who is __op__'s most attractive friend?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is __op__'s most annoying sexual habit?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "How many sexual relationships have you been in before?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever thought of sleeping with someone else? then who?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is your favorite body part of __op__?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you slept with anyone on campus?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s your GPA?",
+        "cat": "ch",
+        "for":  "mf"
+    },
+    {
+        "que": "What was the craziest thing you did in your freshman year?",
+        "cat": "ch",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever made love with a professor/teacher?",
+        "cat": "ch",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s your dirty little secret?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s the craziest place you’ve made love on campus?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you like your roommate sexually?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is your roommate’s best body part?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever had sex in your roommate’s bed?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever considered sleeping with a roommate?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever had sex with your friend’s partner?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever had an orgy?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever used a sex toy?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s the longest __st__ you’ve had?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "When was the last time you skipped class?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "How many times have you skipped class?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever woken up to a stranger in bed?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever slept with a freshman?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever wondered what a professor/teacher looked like naked?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever imagined __op__ naked?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s your nastiest browsing history?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever sexted anyone before?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What sexual adventurous thing have you always wanted someone to do to you?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s an illegal thing you wished was legal?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "When was the first time you came? (ejaculated/ orgasmed)",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "When was the last time you came (ejaculated/ orgasmed) so good?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "When was your first kiss with someone?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Who has been your best partner so far?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s your favorite body part of the opposite gender?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s your favorite body part on yourself?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever cheated before?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "How many people have you slept with?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Are you jealous of anyone?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you like angry sex?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you like makeup sex?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever had a sex dream about __op__?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you have feelings for __op__?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "How much do you love __op__?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "How many exes do you have?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "How many people have you kissed?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever been so turned on that you couldn’t control it?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever touched yourself?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever had __st__ at work?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you like being in control in bed?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you prefer being controlled in bed?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s the highest number of sexual intercourse you’ve had in a day?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "How far have you gone for sex?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you done __st__ in people’s presence without them realizing it?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What kind of foreplay do you like?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Would you take a hot shower with __op__?",
+        "cat": "h",
+        "for": "mf"
+    },
+    {
+        "que": "Have you ever tried to feel someone up when hugging?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What got you hot for the first time?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What gets you hot every single time?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "How bad have you always wanted to tear off __op__'s clothes?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you watch naughty movies?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "How bad do you want to pull __op__ hair?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you like being kissed on the neck?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever thought about __op__ when showering?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What naughty things do you keep in your nightstand?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "When did you lose your virginity?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "Have you ever has a one night stand?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "What’s the weirdest thing that turns you on?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Name one thing you’ve wanted to try so bad with a guy?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "What’s your most powerful sexual experience?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "Have you ever had a sex dream about any guy __op__ know?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "Do you have any fetishes?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever gotten a bikini wax?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "How often do you trim down there?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "Have you ever regretted doing anything for love?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "Have you ever regretted a hookup?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "How does it taste when you go down on someone?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "Have you ever faked an orgasm?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "What was it like going down on someone for the first time?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "Have you ever felt embarrassed by a crush?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "What’s your worst wardrobe malfunction?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s your favorite male body part?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "Have you ever done anything romantic that you’re proud of?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "What’s the most fun you’ve had on a date?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you had a terrible kiss before?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever been attracted to a girl?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "What’s your favorite body part on a girl?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "What’s the most embarrassing moment you got turned on?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "Have you ever thought of having sex with a guy?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "What’s the craziest thing you ever did for love?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "Have you ever been embarrassed about something you did for love?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "Have you ever had a crush on someone out of your league?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "Have you ever cheated?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "Have you ever cried for love?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "Have you ever made someone cry?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "Have you ever had a threesome?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "Have you had a sex dream about anyone __op__ know?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "Would you ever have a threesome?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever had an orgy?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "Would you ever have an orgy?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "Have you ever had __st__ in a car?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "When did you lose your virginity?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What do you wish to try in the bedroom?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever been given head while driving?",
+        "cat": "h",
+        "for":  "f"
+    },
+    {
+        "que": "How do you like lingerie, a little reveal, or no reveal?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "Have you ever done role play before?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you like second rounds or are they exhausting?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "What’s the worst lie you’ve ever told a girl?",
+        "cat": "h",
+        "for":  "m"
+    },
+    {
+        "que": "Do you have any steamy videos on your phone?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you have any hot photos on your phone?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "How many people have you seen naked?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Mention one thing you’ve wanted to do so bad with __op__?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s the craziest sex dream you’ve had?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever had a bad experience with alcohol?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What was the last video you watched on YouTube?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "What are you wearing right now? ",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What color is your underwear?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What are the naughtiest things you’ve ever done so far?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Tell me anything your mum doesn’t know about you?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s your most embarrassing fart story?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What was your first impression of __op__ when you met?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What did you want to be when you were little?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s the dumbest statement you’ve ever made?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s the dumbest statement __op__ made so far?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "When was your sexual awakening?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "When was your best sexual experience?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Tell me one secret no one knows about you.",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "When was your first __st__ experience?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What was your wildest __st__ experience?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "If __op__ went through your room, what would __op__ be surprised to find?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s the most sensual part of your body that you like to be kissed?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do __op__ remind you of anyone?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Is there anything you’d like __op__ to do?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Is there anything you’d like __op__ to do with you?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s the worst thought you’ve had so far?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What is the best news you’ve ever gotten?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s the naughtiest activity you’ve done at work?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you ever cried because of anyone?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "Has __op__ ever made you cry?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "What is your favorite belonging?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What are your major body-part insecurities?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What naughty things have been on your mind lately?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you been thinking about __op___?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What naughty things are you thinking about right now?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What are your biggest sexual fears?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Has there been anyone who got away during sex?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Have you dyed your pubic hair before?",
+        "cat": "cth",
+        "for":  "mf"
+    },
+    {
+        "que": "Are you turned on right now?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you like being tied up?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s the number one activity you hate in bed?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Where would you like to be massaged?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Do you have any funny sexual experiences?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Would you sleep with any of your exes again?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "What’s the hottest thing someone has done to you?",
+        "cat": "h",
+        "for":  "mf"
+    },
+    {
+        "que": "Name one activity you wished someone did to you?",
+        "cat": "h",
+        "for":  "mf"
+    }
+]
