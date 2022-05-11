@@ -1,7 +1,5 @@
 const admin = require("firebase-admin");
 
-const serviceAccount = require("../../secrets/serviceAccount.json");
-
 let configs = null;
 if (process.env.NODE_ENV !== "development") {
   configs = JSON.parse(process.env.firebase_config);
