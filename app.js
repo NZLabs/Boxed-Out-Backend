@@ -177,6 +177,10 @@ try {
         });
     });
 
+    socket.on("START_GAME_REQUEST", (payload) => {
+      socket.emit("START_GAME_RESPONSE", payload);
+    });
+
     socket.on("CHALLANGE_SELECT_REQUEST", (payload) => {
       // console.log("Recived the challange request", payload);
       questions = db
