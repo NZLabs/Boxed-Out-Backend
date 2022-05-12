@@ -1,3 +1,3 @@
-# Boxed-Out-Backend - 
+# Boxed-Out-Backend
 - Open Source Online Multiplayer Truth or Dare Platform
 
